@@ -1,0 +1,14 @@
+changelog:
+  exclude:
+    labels:
+      - skip-release
+  categories:
+    - title: Breaking Changes 🛠
+      labels:
+        - major
+    - title: Exciting New Features 🎉
+      labels:
+        - minor
+    - title: Other Changes
+      labels:
+        - "*"
